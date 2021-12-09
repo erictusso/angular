@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'gatitos';
+  // Le envio esta data al HTML 
+  // pARA MOSTRARLA EN EL html USO {{ NOMBREdATO}}
+  edad = 99;
 }
