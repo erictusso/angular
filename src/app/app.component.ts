@@ -10,4 +10,5 @@ export class AppComponent {
   // Le envio esta data al HTML 
   // pARA MOSTRARLA EN EL html USO {{ NOMBREdATO}}
   edad = 99;
+  numeros = [45, 456, 57, 7879, 9];
 }
