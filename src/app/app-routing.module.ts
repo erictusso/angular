@@ -7,11 +7,11 @@ import { ContactoComponent } from './pages/contacto/contacto.component';
 
 //Aca declaramos las rutas
 const routes: Routes = [
-  { path: "nosotros" , component:NosotrosComponent},
+  { path: "", component:InicioComponent },
 
-  { path: "contacto" , component:ContactoComponent },
+  { path: "nosotros", component:NosotrosComponent},
 
-  { path: "inicio" , component:InicioComponent }
+  { path: "contacto", component:ContactoComponent }
 
 ];
 
