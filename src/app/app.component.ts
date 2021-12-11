@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 
+import { CatNinjaService } from './cat-ninja.service'; 
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
