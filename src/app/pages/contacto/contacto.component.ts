@@ -24,7 +24,7 @@ export class ContactoComponent implements OnInit {
 
   // onInit: Cuando terminó de pre-cargar el componente
   ngOnInit(): void {
-    this.mostrarFact();
+    // this.mostrarFact();
   }
 
 }
